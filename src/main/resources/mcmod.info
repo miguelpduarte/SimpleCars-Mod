@@ -1,0 +1,12 @@
+[{
+  "modid": "simplecarsmod",
+  "name": "Simple Cars",
+  "description": "WIP - Adds simple cars",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/simplecars/textures/logo.png",
+  "url": "minecraftforge.net/WIP",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Meiogordo"],
+  "credits": "Flores taught me OOP correctly, thanks"
+}]

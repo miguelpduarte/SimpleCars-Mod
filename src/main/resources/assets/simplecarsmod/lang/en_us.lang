@@ -1,0 +1,5 @@
+//Items
+item.car_key.name=Car Key
+
+//Blocks
+tile.engine_block.name=Engine Block
